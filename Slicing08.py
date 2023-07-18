@@ -6,5 +6,5 @@ def main(s):
     Returns:
         str: answer
     """
-    return s[0:len(s):2]
+    return s[1:len(s):2]
 print(main("12345678"))
