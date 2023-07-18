@@ -7,4 +7,4 @@ def main(s):
         str: answer
     """
     return s[1:len(s):2]
-print("gjfgbgbfdvnj")
+print(main("gjfgbgbfdvnj"))
