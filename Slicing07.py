@@ -7,5 +7,5 @@ def main(s,n):
     Returns:
         str: answer
     """
-    return s[:len(s)-n]
+    return s[n:]
 print(main("fdfmdvjgj",6))
